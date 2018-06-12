@@ -1,13 +1,11 @@
 # RenderThreadCrash
 Showcase of a crash in libhwui.so on Samsung devices.
 
-https://issuetracker.google.com/issues/110061526
+https://issuetracker.google.com/issues/110061526  
 https://developer.samsung.com/forum/board/thread/view.do?boardName=SDK&messageId=351855&startId=zzzzz~
 
-Device: Samsung Galaxy S8 (possibly other devices with same OS version are affected too).
-
-OS: 8.0.0, Security patch from May 1.
-
+Device: Samsung Galaxy S8 (possibly other devices with same OS version are affected too).  
+OS: 8.0.0, Security patch from May 1.  
 Doesn't happen on non-Samsung devices.
 
 Steps to reproduce: 
